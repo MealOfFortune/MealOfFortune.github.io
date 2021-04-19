@@ -1,0 +1,48 @@
+* {
+  background: #C7C7C7;
+  margin: 0px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  background: #73000a;
+  text-align: center;
+  font-family: 'Zen Dots', cursive;
+  font-size: 40px;
+  padding: 30px;
+}
+
+h2 {
+  margin-bottom: 15px;
+}
+
+#mainContainer {
+  margin: auto;
+  width: 70%;
+  text-align: center;
+}
+
+.containerText {
+  margin: auto;
+  width: 60%;
+}
+
+ul {
+  background: black;
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding-left: 30%;
+}
+
+li {
+  background: black;
+  margin: 5px;
+  padding: 5px;
+}
+
+a {
+  background: black;
+  color: #ffff;
+  text-decoration: none;
+}
